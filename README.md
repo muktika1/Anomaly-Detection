@@ -1,4 +1,4 @@
-# Anomaly-Detection-using-Multi-Perceptron
+# Anomaly-Detection
 
 ## Overview
 This project implements an online fraud detection system using machine learning techniques. The goal is to identify fraudulent transactions from a dataset of online transactions. Several models are built and evaluated, including a basic neural network, an MLP model with regularization, and a BaggingClassifier with a Keras base model.
