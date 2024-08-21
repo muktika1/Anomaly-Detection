@@ -5,7 +5,8 @@ This project implements an online fraud detection system using machine learning 
 
 ## Features
 
-Data Visualization
+## Data Visualization
+
 The project includes various visualizations:
 
 Distribution of transaction steps
@@ -13,7 +14,8 @@ Distribution of fraudulent vs non-fraudulent transactions
 Transaction type counts for fraudulent and non-fraudulent transactions
 Correlation heatmap of numerical features
 
-Model Details
+## Model Details
+
 Basic Neural Network:
 
 Architecture: Dense layers with ReLU activation and dropout for regularization.
@@ -27,5 +29,6 @@ Bagging Classifier:
 Architecture: Ensemble of Keras models using Bagging.
 Performance: Accuracy of 89%, precision of 98%, recall of 79%, F1-score of 87%.
 
-Results
+## Results
+
 The Bagging Classifier model performed the best, achieving high precision and overall accuracy.
