@@ -31,4 +31,4 @@ Performance: Accuracy of 89%, precision of 98%, recall of 79%, F1-score of 87%.
 
 ## Results
 
-The Bagging Classifier model performed the best, achieving high precision and overall accuracy.
+The basic neural network model achieved the highest accuracy, while the Bagging Classifier demonstrated superior precision.
